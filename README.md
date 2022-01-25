@@ -1,2 +1,3 @@
-# stacks-queues-
+# stacks-and-queues
+
 Java exercises 
